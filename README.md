@@ -1,4 +1,4 @@
-# image_classifier using Tensorflow
+# Image Classifier using Tensorflow
 To obtain labelled images for training and testing is part of the dataset
 collection and preprocessing process. To boost the speed of the model, resize the photos to a
 uniform size and normalise the pixel values. Set the dataset up as training, validation, and testing
